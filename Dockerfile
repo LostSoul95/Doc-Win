@@ -3,7 +3,7 @@ WORKDIR /app
 EXPOSE 80
 
 WORKDIR /src
-COPY ["myApp/myAppp.csproj", "myApp/"]
+COPY ["myApp/myApp.csproj", "myApp/"]
 RUN dotnet restore "myApp/myApp.csproj"
 COPY . .
 WORKDIR "/src/myApp"
