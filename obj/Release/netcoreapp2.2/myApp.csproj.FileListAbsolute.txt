@@ -1,0 +1,11 @@
+/home/madhurkatyal/Dotnet-Core-Projects/app/bin/Release/netcoreapp2.2/myApp.deps.json
+/home/madhurkatyal/Dotnet-Core-Projects/app/bin/Release/netcoreapp2.2/myApp.runtimeconfig.json
+/home/madhurkatyal/Dotnet-Core-Projects/app/bin/Release/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/home/madhurkatyal/Dotnet-Core-Projects/app/bin/Release/netcoreapp2.2/myApp.dll
+/home/madhurkatyal/Dotnet-Core-Projects/app/bin/Release/netcoreapp2.2/myApp.pdb
+/home/madhurkatyal/Dotnet-Core-Projects/app/obj/Release/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/home/madhurkatyal/Dotnet-Core-Projects/app/obj/Release/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/home/madhurkatyal/Dotnet-Core-Projects/app/obj/Release/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/home/madhurkatyal/Dotnet-Core-Projects/app/obj/Release/netcoreapp2.2/myApp.AssemblyInfo.cs
+/home/madhurkatyal/Dotnet-Core-Projects/app/obj/Release/netcoreapp2.2/myApp.dll
+/home/madhurkatyal/Dotnet-Core-Projects/app/obj/Release/netcoreapp2.2/myApp.pdb
